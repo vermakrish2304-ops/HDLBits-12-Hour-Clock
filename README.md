@@ -19,7 +19,7 @@ Design a set of cascaded counters for a **12-hour clock** with
 AM/PM indicator. The clock is driven by a fast-running `clk`,
 with `ena` pulsed once per second to increment time.
 
-![Question](question.png)
+![Question](Question.png)
 
 ### Key Specifications
 - Time displays in **BCD (Binary Coded Decimal)** format
